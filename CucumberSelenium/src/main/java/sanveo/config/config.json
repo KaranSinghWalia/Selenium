@@ -1,0 +1,23 @@
+[
+  {
+    "dev":{
+      "url": "",
+      "username":"john@abc.com",
+      "password":"abcd@1234"
+    }
+  },
+  {
+    "stage":{
+      "url": "",
+      "username":"doe@abc.com",
+      "password":"pwd@1234"
+    }
+  },
+  {
+    "production":{
+      "url": "",
+      "username":"henry@abc.com",
+      "password":"abcd@1234"
+    }
+  }
+]
